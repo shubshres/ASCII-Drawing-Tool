@@ -1,4 +1,4 @@
-SRC1 = Code4_1001724804.c
+SRC1 = AsciiDraw.c
 SRC2 = DrawTool.c
 OBJ1 = $(SRC1:.c=.o)
 OBJ2 = $(SRC2:.c=.o)

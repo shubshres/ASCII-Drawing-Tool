@@ -1,4 +1,3 @@
-//Shubhayu Shrestha 1001724804
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

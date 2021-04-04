@@ -1,4 +1,3 @@
-//Shubhayu Shrestha 1001724804 
 #include "DrawTool.h"
 
 int main(void)
